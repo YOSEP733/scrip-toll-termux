@@ -1,0 +1,2 @@
+# scrip-toll-termux
+Aas
